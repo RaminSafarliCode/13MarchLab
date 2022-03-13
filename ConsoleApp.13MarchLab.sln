@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.13MarchLab", "ConsoleApp.13MarchLab\ConsoleApp.13MarchLab.csproj", "{5A8F5C1B-7197-4ECD-9F84-B39F4A510E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8F5C1B-7197-4ECD-9F84-B39F4A510E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8F5C1B-7197-4ECD-9F84-B39F4A510E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8F5C1B-7197-4ECD-9F84-B39F4A510E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8F5C1B-7197-4ECD-9F84-B39F4A510E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D01CA1F5-789E-47A0-935B-F55E9E0070A5}
+	EndGlobalSection
+EndGlobal
